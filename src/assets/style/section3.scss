@@ -1,0 +1,49 @@
+.section3 {
+  background-color: #4606f0;
+  min-height: 40rem;
+
+  .aji-creative {
+    color: #ffffff;
+
+    font-family: "Kanit-SemiBold", sans-serif;
+    font-size: 53.26005554199219px;
+    font-weight: 600;
+    position: relative;
+    padding-top: 8rem;
+  }
+  .nos-projets {
+    color: #ffffff;
+    font-family: "Kanit-SemiBold", sans-serif;
+    font-size: 6rem;
+    @media screen and (max-width: 1500px) {
+      font-size: 5rem;
+    }
+    @media screen and (max-width: 700px) {
+      font-size: 4rem;
+    }
+    font-weight: 600;
+  }
+  ._600 {
+    color: #ffffff;
+
+    font-family: "Kanit-Regular", sans-serif;
+    font-size: 118.98703002929688px;
+    @media screen and (max-width: 1500px) {
+      font-size: 5rem;
+    }
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  .projets-r-alis-s {
+    color: #00d2ae;
+    margin-left: 2rem;
+    font-family: "Kanit-Regular", sans-serif;
+    font-size: 39.958335876464844px;
+    @media screen and (max-width: 1500px) {
+      font-size: 2rem;
+    }
+    line-height: 130%;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+}

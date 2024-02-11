@@ -1,0 +1,9 @@
+.section4 {
+  background-image: url("/public/images/Frame\ 60.png");
+  background-size: contain;
+  height: 67rem;
+  @media screen and (max-width: 1900px) {
+    height: 100vh;
+    background-size: 100% 100%;
+  }
+}

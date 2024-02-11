@@ -1,0 +1,9 @@
+.section7 {
+  height: 80rem;
+  background-image: url("/public/images/section7.png");
+  background-size: contain;
+  @media screen and (max-width: 1900px) {
+    height: 100vh;
+    background-size: 100% 100%;
+  }
+}
